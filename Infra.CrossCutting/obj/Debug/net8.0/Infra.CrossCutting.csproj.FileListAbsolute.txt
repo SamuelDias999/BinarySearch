@@ -1,0 +1,12 @@
+/workspaces/BinarySearch/Infra.CrossCutting/bin/Debug/net8.0/Infra.CrossCutting.deps.json
+/workspaces/BinarySearch/Infra.CrossCutting/bin/Debug/net8.0/Infra.CrossCutting.dll
+/workspaces/BinarySearch/Infra.CrossCutting/bin/Debug/net8.0/Infra.CrossCutting.pdb
+/workspaces/BinarySearch/Infra.CrossCutting/obj/Debug/net8.0/Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/BinarySearch/Infra.CrossCutting/obj/Debug/net8.0/Infra.CrossCutting.AssemblyInfoInputs.cache
+/workspaces/BinarySearch/Infra.CrossCutting/obj/Debug/net8.0/Infra.CrossCutting.AssemblyInfo.cs
+/workspaces/BinarySearch/Infra.CrossCutting/obj/Debug/net8.0/Infra.CrossCutting.csproj.CoreCompileInputs.cache
+/workspaces/BinarySearch/Infra.CrossCutting/obj/Debug/net8.0/Infra.CrossCutting.sourcelink.json
+/workspaces/BinarySearch/Infra.CrossCutting/obj/Debug/net8.0/Infra.CrossCutting.dll
+/workspaces/BinarySearch/Infra.CrossCutting/obj/Debug/net8.0/refint/Infra.CrossCutting.dll
+/workspaces/BinarySearch/Infra.CrossCutting/obj/Debug/net8.0/Infra.CrossCutting.pdb
+/workspaces/BinarySearch/Infra.CrossCutting/obj/Debug/net8.0/ref/Infra.CrossCutting.dll
